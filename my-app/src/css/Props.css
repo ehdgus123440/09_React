@@ -1,0 +1,15 @@
+.red{
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.green{
+  color: green;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+input{
+  border: 1px beige solid;
+}
